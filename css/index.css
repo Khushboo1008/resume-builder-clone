@@ -64,6 +64,9 @@
     margin-bottom: 1rem;
 
 }
+.collapsible:hover{
+    color: #2196f3;
+}
 .dot::before {
     content: "";
     position: absolute;
